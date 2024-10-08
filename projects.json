@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Web Application",
+    "description": "A cutting-edge web application showcasing advanced React patterns and state management techniques. This project demonstrates responsive design and seamless API integration.",
+    "imageUrl": "https://via.placeholder.com/300x200",
+    "videoUrl": "https://www.example.com/video1",
+    "downloadUrl": "https://www.example.com/download1",
+    "repoUrl": "https://github.com/example/project1"
+  },
+  {
+    "id": 2,
+    "title": "AI-Powered Analytics Dashboard",
+    "description": "An intelligent analytics dashboard leveraging machine learning algorithms to provide actionable insights. Features include real-time data visualization and predictive modeling.",
+    "imageUrl": "https://via.placeholder.com/300x200",
+    "videoUrl": "https://www.example.com/video2",
+    "downloadUrl": "",
+    "repoUrl": "https://github.com/example/project2"
+  },
+  {
+    "id": 3,
+    "title": "Mobile E-Commerce App",
+    "description": "A fully functional mobile e-commerce app built with React Native. It features seamless payment integration and a beautiful user interface optimized for mobile devices.",
+    "imageUrl": "https://via.placeholder.com/300x200",
+    "videoUrl": "",
+    "downloadUrl": "https://www.example.com/download3",
+    "repoUrl": "https://github.com/example/project3"
+  },
+  {
+    "id": 4,
+    "title": "Real-Time Chat Application",
+    "description": "A real-time chat application built using WebSocket and Node.js. It features a sleek design, private messaging, and group chat functionalities.",
+    "imageUrl": "https://via.placeholder.com/300x200",
+    "videoUrl": "https://www.example.com/video4",
+    "downloadUrl": "",
+    "repoUrl": "https://github.com/example/project4"
+  }
+]
