@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Modern Web Application",
+    "title": "AI-Convo",
     "description": "A cutting-edge web application showcasing advanced React patterns and state management techniques. This project demonstrates responsive design and seamless API integration.",
     "imageUrl": "https://via.placeholder.com/300x200",
     "videoUrl": "https://www.example.com/video1",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "title": "AI-Powered Analytics Dashboard",
+    "title": "Jot-terSpace",
     "description": "An intelligent analytics dashboard leveraging machine learning algorithms to provide actionable insights. Features include real-time data visualization and predictive modeling.",
     "imageUrl": "https://via.placeholder.com/300x200",
     "videoUrl": "https://www.example.com/video2",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "title": "Mobile E-Commerce App",
+    "title": "AndroidLocalication-Sample",
     "description": "A fully functional mobile e-commerce app built with React Native. It features seamless payment integration and a beautiful user interface optimized for mobile devices.",
     "imageUrl": "https://via.placeholder.com/300x200",
     "videoUrl": "",
