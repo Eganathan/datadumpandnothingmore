@@ -7,7 +7,7 @@
                     "icon": "github",
                     "url": "https://github.com/Eganathan"
                 },
-                        {
+                {
                     "icon": "stackoverflow",
                     "url": "   https://stackoverflow.com/users/6462865/eknath"
                 },
@@ -24,7 +24,7 @@
                     "url": "https://www.youtube.com/channel/UC6ZFhVze7-PFegdhqXfyAXw"
                 },
                 {
-                    "icon": "blogger",
+                    "icon": "fa-blogger",
                     "url": "https://md.eknath.dev"
                 }
             ],
@@ -45,7 +45,7 @@
             "communityLinks": [
                 {
                     "name": "MangoDriod Blog",
-                    "icon": "blogger",
+                    "icon": "fa-blogger",
                     "url": "https://md.eknath.dev/"
                 },
                          {
@@ -61,6 +61,20 @@
                     "url": "https://md.eknath.dev/categories/android/",
                     "date": "up tp date",
                     "tags": ["Android", "Glace", "AndroidStudio"]
+                },
+                {
+                    "title": "#KMP",
+                    "excerpt": "A Collection of articles realted to KMP",
+                    "url": "https://md.eknath.dev/categories/kmp/",
+                    "date": "up tp date",
+                    "tags": ["KMP", "CMP", "Compose"]
+                },
+                        {
+                    "title": "#Ai/ML",
+                    "excerpt": "A Collection of articles realted to Ai/ML",
+                    "url": "https://md.eknath.dev/categories/ai/ml/",
+                    "date": "up tp date",
+                    "tags": ["AI", "ML", "TFLite"]
                 }
             ]
         }
