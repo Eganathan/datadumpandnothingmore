@@ -1,0 +1,81 @@
+{
+            "profileImage": "/api/placeholder/150/150",
+            "name": "Alex Rivers",
+            "bio": "Full-stack developer & AI enthusiast. Building the future of web3 and exploring the intersection of artificial intelligence and blockchain technology. Speaker, writer, and eternal learner.",
+            "socialLinks": [
+                {
+                    "icon": "github",
+                    "url": "#"
+                },
+                {
+                    "icon": "twitter",
+                    "url": "#"
+                },
+                {
+                    "icon": "linkedin",
+                    "url": "#"
+                },
+                {
+                    "icon": "youtube",
+                    "url": "#"
+                },
+                {
+                    "icon": "twitch",
+                    "url": "#"
+                }
+            ],
+            "articles": [
+                {
+                    "title": "The Rise of Decentralized AI Networks",
+                    "description": "Exploring how blockchain technology is revolutionizing artificial intelligence through decentralized computing networks and shared models.",
+                    "url": "#",
+                    "date": "March 20, 2024"
+                },
+                {
+                    "title": "Building Scalable dApps with Next.js 14",
+                    "description": "A comprehensive guide to creating high-performance decentralized applications using the latest features in Next.js and smart contracts.",
+                    "url": "#",
+                    "date": "March 15, 2024"
+                }
+            ],
+            "communityLinks": [
+                {
+                    "name": "Dev Discord",
+                    "icon": "discord",
+                    "url": "#"
+                },
+                {
+                    "name": "Live Coding",
+                    "icon": "twitch",
+                    "url": "#"
+                },
+                {
+                    "name": "Tech Blog",
+                    "icon": "medium",
+                    "url": "#"
+                }
+            ],
+            "blogs": [
+                {
+                    "title": "The Future of Web Development in 2024",
+                    "excerpt": "Exploring emerging trends including AI-powered development tools, WebAssembly, and the evolution of frontend frameworks.",
+                    "url": "#",
+                    "date": "March 18, 2024",
+                    "tags": ["Web3", "AI", "Future Tech"]
+                },
+                {
+                    "title": "Optimizing Smart Contract Gas Consumption",
+                    "excerpt": "Deep dive into advanced techniques for reducing gas costs in Ethereum smart contracts without compromising functionality.",
+                    "url": "#",
+                    "date": "March 12, 2024",
+                    "tags": ["Ethereum", "Optimization", "Blockchain"]
+                },
+                {
+                    "title": "Building AI-Powered Code Reviews",
+                    "excerpt": "How to leverage large language models to automate and enhance the code review process in your development workflow.",
+                    "url": "#",
+                    "date": "March 8, 2024",
+                    "tags": ["AI", "DevOps", "Productivity"]
+                }
+            ]
+        }
