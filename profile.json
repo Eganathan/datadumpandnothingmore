@@ -8,7 +8,7 @@
                     "url": "https://github.com/Eganathan"
                 },
                 {
-                    "icon": "stackoverflow",
+                    "icon": "fa-stack-overflow",
                     "url": "   https://stackoverflow.com/users/6462865/eknath"
                 },
                 {
@@ -24,7 +24,7 @@
                     "url": "https://www.youtube.com/channel/UC6ZFhVze7-PFegdhqXfyAXw"
                 },
                 {
-                    "icon": "fa-blogger",
+                    "icon": "fa-globe",
                     "url": "https://md.eknath.dev"
                 }
             ],
@@ -45,7 +45,7 @@
             "communityLinks": [
                 {
                     "name": "MangoDriod Blog",
-                    "icon": "fa-blogger",
+                    "icon": "fa-globe",
                     "url": "https://md.eknath.dev/"
                 },
                          {
