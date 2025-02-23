@@ -1,81 +1,62 @@
 {
-            "profileImage": "/api/placeholder/150/150",
-            "name": "Alex Rivers",
-            "bio": "Full-stack developer & AI enthusiast. Building the future of web3 and exploring the intersection of artificial intelligence and blockchain technology. Speaker, writer, and eternal learner.",
+            "profileImage": "https://pbs.twimg.com/profile_images/1842768149844054016/VlCxgNKR_400x400.jpg",
+            "name": "Eganathan (Eknath)",
+            "bio": "Android & CMP Developer with a deep love for crafting elegant and dynamic user interfaces using Jetpack Compose. My journey in the world of mobile development has been fueled by my enthusiasm for creating seamless user experiences and leveraging the power of modern technologies.",
             "socialLinks": [
                 {
                     "icon": "github",
-                    "url": "#"
+                    "url": "https://github.com/Eganathan"
                 },
                 {
                     "icon": "twitter",
-                    "url": "#"
+                    "url": "https://x.com/eknath_dev"
                 },
                 {
                     "icon": "linkedin",
-                    "url": "#"
+                    "url": "http://linkedin.com/in/eganathan/"
                 },
                 {
                     "icon": "youtube",
-                    "url": "#"
+                    "url": "https://www.youtube.com/channel/UC6ZFhVze7-PFegdhqXfyAXw"
                 },
                 {
-                    "icon": "twitch",
-                    "url": "#"
+                    "icon": "blog",
+                    "url": "https://md.eknath.dev"
                 }
             ],
             "articles": [
                 {
-                    "title": "The Rise of Decentralized AI Networks",
-                    "description": "Exploring how blockchain technology is revolutionizing artificial intelligence through decentralized computing networks and shared models.",
-                    "url": "#",
+                    "title": "Upgrading Your App to Offline First With Room #OFO1",
+                    "description": "A series of posts: Making your app offline-first is essential if you want to provide the best user experience. It makes your app significantly faster by reducing the number of network calls, which in turn also reduces server costs.",
+                    "url": "https://md.eknath.dev/posts/upgrading-your-app-to-offline-first-with-room-part-1/",
                     "date": "March 20, 2024"
                 },
                 {
-                    "title": "Building Scalable dApps with Next.js 14",
-                    "description": "A comprehensive guide to creating high-performance decentralized applications using the latest features in Next.js and smart contracts.",
-                    "url": "#",
-                    "date": "March 15, 2024"
+                    "title": "Static App Shortcuts in Android: A Simple Implementation Guide",
+                    "description": "Have you ever long-pressed an app icon and seen quick actions like “Search” or “New Message”? These are App Shortcuts, a powerful feature that allows users to interact with your app faster and more efficiently...",
+                    "url": "https://md.eknath.dev/posts/implement-static-app-shortcuts-on-android/",
+                    "date": "Feb 15, 2025"
                 }
             ],
             "communityLinks": [
                 {
-                    "name": "Dev Discord",
-                    "icon": "discord",
-                    "url": "#"
+                    "name": "MangoDriod Blog",
+                    "icon": "blog",
+                    "url": "https://md.eknath.dev/"
                 },
-                {
-                    "name": "Live Coding",
-                    "icon": "twitch",
-                    "url": "#"
-                },
-                {
-                    "name": "Tech Blog",
-                    "icon": "medium",
-                    "url": "#"
+                         {
+                    "name": "MangoDriod Whatsapp Community",
+                    "icon": "whatsapp",
+                    "url": "https://eknath.dev/community"
                 }
             ],
             "blogs": [
                 {
-                    "title": "The Future of Web Development in 2024",
-                    "excerpt": "Exploring emerging trends including AI-powered development tools, WebAssembly, and the evolution of frontend frameworks.",
-                    "url": "#",
-                    "date": "March 18, 2024",
-                    "tags": ["Web3", "AI", "Future Tech"]
-                },
-                {
-                    "title": "Optimizing Smart Contract Gas Consumption",
-                    "excerpt": "Deep dive into advanced techniques for reducing gas costs in Ethereum smart contracts without compromising functionality.",
-                    "url": "#",
-                    "date": "March 12, 2024",
-                    "tags": ["Ethereum", "Optimization", "Blockchain"]
-                },
-                {
-                    "title": "Building AI-Powered Code Reviews",
-                    "excerpt": "How to leverage large language models to automate and enhance the code review process in your development workflow.",
-                    "url": "#",
-                    "date": "March 8, 2024",
-                    "tags": ["AI", "DevOps", "Productivity"]
+                    "title": "#Android",
+                    "excerpt": "A Collection of articles realted to Android",
+                    "url": "https://md.eknath.dev/categories/android/",
+                    "date": "up tp date",
+                    "tags": ["Android", "Glace", "AndroidStudio"]
                 }
             ]
         }
